@@ -17,11 +17,11 @@
    height="4"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="running2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   style="display:inline;enable-background:new">
+   style="display:inline;enable-background:new;opacity:1">
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
@@ -32,17 +32,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="39.539055"
-     inkscape:cx="13.094903"
+     inkscape:cx="8.7953566"
      inkscape:cy="2.5928216"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="851"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -68,32 +68,57 @@
      inkscape:snap-smooth-nodes="false"
      inkscape:snap-page="true">
     <inkscape:grid
-       type="xygrid"
-       id="grid3123"
-       empspacing="4"
-       visible="true"
+       snapvisiblegridlinesonly="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       visible="true"
+       empspacing="4"
+       id="grid3123"
+       type="xygrid" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <linearGradient
-       id="selected_bg_color"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="selected_bg_color">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         id="stop4138"
          offset="0"
-         id="stop4138" />
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#selected_bg_color"
-       id="linearGradient4140"
-       x1="11"
-       y1="298"
-       x2="11"
+       gradientUnits="userSpaceOnUse"
        y2="300"
-       gradientUnits="userSpaceOnUse" />
+       x2="11"
+       y1="298"
+       x1="11"
+       id="linearGradient4140"
+       xlink:href="#selected_bg_color"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="300"
+       x2="11"
+       y1="298"
+       x1="11"
+       id="linearGradient4140-347"
+       xlink:href="#selected_bg_color-838"
+       inkscape:collect="always" />
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-838">
+      <stop
+         id="stop824"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-223">
+      <stop
+         id="stop827"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata4">
@@ -146,24 +171,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
-     inkscape:groupmode="layer"
-     inkscape:label="Base"
+     transform="translate(0,-296)"
      id="layer1"
-     transform="translate(0,-296)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient4140);fill-opacity:1;stroke:none"
-       id="rect4270-9"
-       width="4"
-       height="2"
-       x="9"
-       y="298" />
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:1">
     <rect
        y="298"
-       x="15"
+       x="9"
        height="2"
        width="4"
+       id="rect4270-9"
+       style="opacity:1;fill:url(#linearGradient4140-347);fill-opacity:1;stroke:none" />
+    <rect
+       style="opacity:1;fill:url(#selected_bg_color-223);fill-opacity:1;stroke:none"
        id="rect4239"
-       style="opacity:1;fill:url(#selected_bg_color);fill-opacity:1;stroke:none" />
+       width="4"
+       height="2"
+       x="15"
+       y="298" />
   </g>
 </svg>

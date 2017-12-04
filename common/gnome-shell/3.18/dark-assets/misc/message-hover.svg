@@ -16,28 +16,8 @@
    viewBox="0 0 32 32.000001"
    id="svg6621"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="message-hover.svg">
-  <defs
-     id="defs6623">
-    <linearGradient
-       id="selected_bg_color"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
-         offset="0"
-         id="stop4138" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#selected_bg_color"
-       id="linearGradient4140"
-       x1="2"
-       y1="1021.3622"
-       x2="2"
-       y2="1051.3622"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -46,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.2"
-     inkscape:cx="-0.68428583"
+     inkscape:cx="-15.862857"
      inkscape:cy="17.181721"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -55,11 +35,61 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
     <inkscape:grid
-       type="xygrid"
-       id="grid7177" />
+       id="grid7177"
+       type="xygrid" />
   </sodipodi:namedview>
+  <defs
+     id="defs6623">
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color">
+      <stop
+         id="stop4138"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1051.3622"
+       x2="2"
+       y1="1021.3622"
+       x1="2"
+       id="linearGradient4140"
+       xlink:href="#selected_bg_color"
+       inkscape:collect="always" />
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-101">
+      <stop
+         id="stop821"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="1051.3622"
+       x2="2"
+       y1="1021.3622"
+       x1="2"
+       id="linearGradient4140-534"
+       xlink:href="#selected_bg_color-707"
+       inkscape:collect="always" />
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-707">
+      <stop
+         id="stop825"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+  </defs>
   <metadata
      id="metadata6626">
     <rdf:RDF>
@@ -73,24 +103,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-1020.3622)"
      id="layer1"
-     transform="translate(0,-1020.3622)">
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
     <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.15294118;stroke:url(#selected_bg_color);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4160"
-       width="31"
-       height="31.000017"
-       x="0.5"
-       y="1020.8622"
+       ry="1.5"
        rx="1.5"
-       ry="1.5" />
+       y="1020.8622"
+       x="0.5"
+       height="31.000017"
+       width="31"
+       id="rect4160"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:0.15294118;stroke:url(#selected_bg_color-101);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="display:inline;opacity:1;fill:url(#linearGradient4140);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686"
-       d="m 2.5,1021.3622 0.5,0 0,30 -0.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-27 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"
-       id="rect4162"
+       sodipodi:nodetypes="sccssss"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccssss" />
+       id="rect4162"
+       d="m 2.5,1021.3622 0.5,0 0,30 -0.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-27 c 0,-0.831 0.669,-1.5 1.5,-1.5 z"
+       style="display:inline;opacity:1;fill:url(#linearGradient4140-534);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686" />
   </g>
 </svg>

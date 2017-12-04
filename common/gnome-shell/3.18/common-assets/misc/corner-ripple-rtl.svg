@@ -14,7 +14,7 @@
    width="52"
    height="52"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="corner-ripple-rtl.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -25,31 +25,59 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="770"
      inkscape:window-height="480"
-     id="namedview955" />
+     id="namedview955"
+     showgrid="false"
+     inkscape:zoom="4.5384615"
+     inkscape:cx="26"
+     inkscape:cy="26"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient3857">
       <stop
-         id="stop3859"
-         style="stop-color:#398dd3;stop-opacity:0"
-         offset="0" />
+         offset="0"
+         style="stop-color:#398dd3;stop-opacity:0;opacity:1"
+         id="stop3859" />
       <stop
-         id="stop3861"
-         style="stop-color:#398cd3;stop-opacity:1"
-         offset="1" />
+         offset="1"
+         style="stop-color:#911ae6;stop-opacity:1;opacity:1"
+         id="stop3861" />
     </linearGradient>
     <radialGradient
-       cx="0"
-       cy="0"
-       r="52"
-       fx="0"
-       fy="0"
-       id="radialGradient3863"
+       gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3857"
-       gradientUnits="userSpaceOnUse" />
+       id="radialGradient3863"
+       fy="0"
+       fx="0"
+       r="52"
+       cy="0"
+       cx="0" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3857-755"
+       id="radialGradient3863-708"
+       fy="0"
+       fx="0"
+       r="52"
+       cy="0"
+       cx="0" />
+    <linearGradient
+       id="linearGradient3857-755">
+      <stop
+         offset="0"
+         style="stop-color:#398dd3;stop-opacity:0;opacity:1"
+         id="stop823" />
+      <stop
+         offset="1"
+         style="stop-color:#911ae6;stop-opacity:1;opacity:1"
+         id="stop825" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -64,12 +92,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-1000.3622)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-1000.3622)">
     <path
-       d="M 52,0 A 52,52 0 1 1 -52,0 52,52 0 1 1 52,0 z"
-       transform="translate(52,1000.3622)"
+       style="fill:url(#radialGradient3863-708);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:1"
        id="path2991"
-       style="fill:url(#radialGradient3863);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       transform="translate(52,1000.3622)"
+       d="M 52,0 A 52,52 0 1 1 -52,0 52,52 0 1 1 52,0 z" />
   </g>
 </svg>

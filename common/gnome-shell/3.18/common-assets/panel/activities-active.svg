@@ -17,11 +17,11 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="activities-active.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   style="display:inline;enable-background:new">
+   style="display:inline;enable-background:new;opacity:1">
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
@@ -32,17 +32,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="4.4779162"
+     inkscape:cx="-3.0350933"
      inkscape:cy="11.459165"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="848"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="27"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -66,36 +66,70 @@
      guidehicolor="#001aff"
      guidehiopacity="0.49803922">
     <inkscape:grid
-       type="xygrid"
-       id="grid3123"
-       empspacing="4"
-       visible="true"
+       snapvisiblegridlinesonly="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       visible="true"
+       empspacing="4"
+       id="grid3123"
+       type="xygrid" />
     <sodipodi:guide
-       position="12,12"
+       inkscape:locked="false"
+       id="guide4135"
        orientation="1,0"
-       id="guide4135" />
+       position="12,12" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <linearGradient
-       id="selected_bg_color"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="selected_bg_color">
       <stop
-         style="stop-color:#5294e2;stop-opacity:1;"
+         id="stop4140"
          offset="0"
-         id="stop4140" />
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#selected_bg_color"
-       id="linearGradient4142"
-       x1="6"
-       y1="287"
-       x2="6"
+       gradientUnits="userSpaceOnUse"
        y2="289"
-       gradientUnits="userSpaceOnUse" />
+       x2="6"
+       y1="287"
+       x1="6"
+       id="linearGradient4142"
+       xlink:href="#selected_bg_color"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="289"
+       x2="6"
+       y1="287"
+       x1="6"
+       id="linearGradient4142-893"
+       xlink:href="#selected_bg_color-734"
+       inkscape:collect="always" />
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-734">
+      <stop
+         id="stop827"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-370">
+      <stop
+         id="stop830"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="selected_bg_color-430">
+      <stop
+         id="stop833"
+         offset="0"
+         style="stop-color:#911ae6;stop-opacity:1;;opacity:1" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata4">
@@ -148,31 +182,31 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="display:inline"
-     inkscape:groupmode="layer"
-     inkscape:label="Base"
+     transform="translate(0,-276)"
      id="layer1"
-     transform="translate(0,-276)">
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     style="display:inline;opacity:1">
     <rect
-       style="opacity:1;fill:url(#linearGradient4142);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4138"
-       width="2"
-       height="2"
+       y="287"
        x="5"
-       y="287" />
-    <rect
-       style="display:inline;opacity:1;fill:url(#selected_bg_color);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       id="rect4138-6"
-       width="2"
        height="2"
+       width="2"
+       id="rect4138"
+       style="opacity:1;fill:url(#linearGradient4142-893);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="287"
        x="11"
-       y="287" />
-    <rect
-       style="display:inline;opacity:1;fill:url(#selected_bg_color);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
-       id="rect4138-9"
-       width="2"
        height="2"
+       width="2"
+       id="rect4138-6"
+       style="display:inline;opacity:1;fill:url(#selected_bg_color-370);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
+    <rect
+       y="287"
        x="17"
-       y="287" />
+       height="2"
+       width="2"
+       id="rect4138-9"
+       style="display:inline;opacity:1;fill:url(#selected_bg_color-430);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
   </g>
 </svg>
